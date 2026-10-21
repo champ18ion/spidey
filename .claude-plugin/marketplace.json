@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "spidey",
+  "description": "A spider-hero who visits when Claude Code needs you and you're in another window.",
+  "owner": {
+    "name": "champ18ion"
+  },
+  "plugins": [
+    {
+      "name": "spidey",
+      "description": "Drops in for permission prompts, warns about risky commands, and tells you when long tasks finish.",
+      "source": "./"
+    }
+  ]
+}

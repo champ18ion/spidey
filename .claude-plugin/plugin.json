@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "spidey",
+  "version": "1.0.0",
+  "description": "A pixel spider-hero drops down from the top of your screen when Claude Code needs your permission and you're in another window.",
+  "author": {
+    "name": "champ18ion"
+  }
+}
